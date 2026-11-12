@@ -1,1 +1,9 @@
-# number-recognition
+text
+
+streamlit
+
+numpy
+
+pillo
+
+scikit-learn
