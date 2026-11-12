@@ -1,9 +1,4 @@
-
-
 streamlit
-
 numpy
-
-pillo
-
+Pillow
 scikit-learn
